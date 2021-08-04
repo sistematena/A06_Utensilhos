@@ -1,2 +1,2 @@
 # A06_Utensilhos_Passaro
-Projeto composto por vários utensílios para acomodar pássaros convalescentes. 
+Projeto composto por vários utensílios para acomodar pássaros sem gaiola.
