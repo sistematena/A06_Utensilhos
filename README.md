@@ -1,2 +1,2 @@
-# A06_Utensilhos_Passaro
-Projeto composto por vários utensílios para acomodar pássaros sem gaiola.
+# A06_Utensilhos
+Projeto composto por diversos itens que facilitam e melhoram o dia-a-dia.
